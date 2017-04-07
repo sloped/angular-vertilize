@@ -25,3 +25,6 @@ angular-vertilize has been tested in all modern browsers, as well as IE8 and wor
 
 ## License
 MIT
+
+Contributor
+Conner McCall
